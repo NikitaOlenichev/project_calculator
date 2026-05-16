@@ -1,3 +1,7 @@
+# функция умножения
+def multiply(a, b):
+    return a * b
+
 # функция сложения двух чисел
 def add(a, b):
     return a + b
