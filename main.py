@@ -2,6 +2,12 @@
 def multiply(a, b):
     return a * b
 
+# функция деления
+def divide(a, b):
+    if b != 0:
+        return a / b
+    return "Ошибка: на ноль делить нельзя!!!"
+
 # функция сложения двух чисел
 def add(a, b):
     return a + b
