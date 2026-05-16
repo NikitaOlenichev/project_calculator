@@ -1,3 +1,6 @@
+def add(a, b):
+    return a + b
+
 def main():
     print("Добро пожаловать в калькулятор!")
     try:
